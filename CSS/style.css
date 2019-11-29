@@ -1,10 +1,53 @@
+@font-face {
+  font-family: "Circular";
+  src: url("../Assets/fonts/lineto-circular-black.woff") format("woff");
+  font-weight: bolder;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Circular";
+  src: url("../Assets/fonts/lineto-circular-pro-bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Circular";
+  src: url("../Assets/fonts/lineto-circular-pro-book.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+html {
+  font-family: "Circular", Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  color: #fff;
+}
 
 
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type:none;
+}
+
+/* footer ----------------------------------------------------------------------------- */
 footer {
   padding-top: 80px;
   padding-bottom: 50px;
-  height: 500px;
-  background: #999;
+  background: #000;
+  font-weight: normal;
+}
+
+footer a {
+  color: #fff;
+}
+
+footer a:hover {
+  color: #1DB954;
 }
 
 footer nav {
@@ -15,6 +58,21 @@ footer nav {
   width: 132px;
 }
 
+.f-country {
+  
+}
+
 .fc-img {
   height: 18px;
+  margin-left: auto;
+}
+
+.f-bottom-links {
+  align-items: center;
+  font-weight: normal;
+  color: #919496;
+}
+
+.fb-date {
+  margin-left: auto;
 }
