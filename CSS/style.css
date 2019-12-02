@@ -99,14 +99,10 @@ header .content {
   }
 }
 
-/* main-bottom ------------------------------------------------------------------------ */
-.main-bottom {
-  height: 446px;
-  background: url("../img/hero-burst-cropped.svg") no-repeat center/1610px 1523px,linear-gradient(#F037A5 -60%,#FAE62D 140%);
-  background-color: #F037A5;
-}
+/* main ------------------------------------------------------------------------------- */
 
-.mb-text h1 {
+
+.m-text h1 {
   line-height: 1.2;
   margin: 0;
   padding-top: 80px;
@@ -119,7 +115,7 @@ header .content {
   direction: ltr;
 }
 
-.mb-text h2 {
+.m-text h2 {
   font-size: 24px;
   margin-bottom: 0;
   width: 100%;
@@ -128,6 +124,23 @@ header .content {
   font-weight: 400;
   text-align: left;
   direction: ltr;
+}
+
+
+/* main-top --------------------------------------------------------------------------- */
+.mt-text {
+  color: #121212;
+}
+
+/* main-bottom ------------------------------------------------------------------------ */
+.main-bottom {
+  height: 446px;
+  background: url("../img/hero-burst-cropped.svg") no-repeat center/1610px 1523px,linear-gradient(#F037A5 -60%,#FAE62D 140%);
+  background-color: #F037A5;
+}
+
+.mb-text {
+  color: #121212;
 }
 
 .btn {
