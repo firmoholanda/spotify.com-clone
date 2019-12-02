@@ -34,7 +34,7 @@ a {
 }
 
 ul {
-  list-style-type:none;
+  list-style-type: none;
   padding-inline-start: 0;
 }
 
@@ -127,10 +127,9 @@ header .content {
   direction: ltr;
 }
 
-
 /* main-top --------------------------------------------------------------------------- */
 .main-top {
-  background-color: #F037A5;
+  background-color: #f037a5;
 }
 
 .mt-text {
@@ -141,7 +140,7 @@ header .content {
 .main-bottom {
   height: 446px;
   background: url("../img/hero-burst-cropped.svg") no-repeat center/1610px 1523px,linear-gradient(#F037A5 -60%,#FAE62D 140%);
-  background-color: #F037A5;
+  background-color: #f037a5;
 }
 
 .mb-text {
@@ -166,7 +165,7 @@ footer a {
 }
 
 footer a:hover {
-  color: #1DB954;
+  color: #1db954;
 }
 
 footer nav {
