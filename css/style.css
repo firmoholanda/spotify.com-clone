@@ -34,7 +34,7 @@ a {
 }
 
 ul {
-  list-style-type:none;
+  list-style-type: none;
   padding-inline-start: 0;
 }
 
@@ -127,7 +127,6 @@ header .content {
   direction: ltr;
 }
 
-
 /* main-top --------------------------------------------------------------------------- */
 .main-top {
   background-color: #f037a5;
@@ -140,7 +139,7 @@ header .content {
 /* main-bottom ------------------------------------------------------------------------ */
 .main-bottom {
   height: 446px;
-  background: url("../img/hero-burst-cropped.svg") no-repeat center/1610px 1523px,linear-gradient(#f037a5 -60%,#fae62d 140%);
+  background: url("../img/hero-burst-cropped.svg") no-repeat center/1610px 1523px, linear-gradient(#f037a5 -60%, #fae62d 140%);
   background-color: #f037a5;
 }
 
@@ -166,7 +165,7 @@ footer a {
 }
 
 footer a:hover {
-  color: #1DB954;
+  color: #1db954;
 }
 
 footer nav {
