@@ -1,0 +1,89 @@
+@font-face {
+  font-family: "Circular";
+  src: url("../Assets/fonts/lineto-circular-black.woff") format("woff");
+  font-weight: bolder;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Circular";
+  src: url("../Assets/fonts/lineto-circular-pro-bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Circular";
+  src: url("../Assets/fonts/lineto-circular-pro-book.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+html,
+body {
+  width: 100%;
+  height: auto;
+}
+
+/** FONTS ------------------------------------ */
+.nav-font {
+  font: bold 16px/150% 'Circular', sans-serif;
+}
+
+/** Navbar ---------------------------------- */
+header {
+  height: 54px;
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: #000;
+  z-index: 1;
+}
+
+header .content {
+  height: 100%;
+}
+
+.logo-wrapper a {
+  display: inline-block;
+  height: 40px;
+  width: 132px;
+  color: white;
+  margin-top: 10px;
+}
+
+.logo-wrapper a svg {
+  fill: #fff;
+  overflow: hidden;
+}
+
+.top-nav li {
+  display: inline-block;
+}
+
+.top-nav li a {
+  padding: 28px 17px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.top-nav li a:hover {
+  color: #1ed760;
+}
+
+.separator {
+  display: inline-block;
+  background: currentColor;
+  height: 16px;
+  width: 1px;
+  color: #fff;
+  margin: auto 17px;
+}
+
+@media (min-width: 480px) {
+  .logo-wrapper a {
+    width: 89px;
+    height: 27px;
+  }
+}
