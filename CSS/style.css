@@ -100,8 +100,6 @@ header .content {
 }
 
 /* main ------------------------------------------------------------------------------- */
-
-
 .m-text h1 {
   line-height: 1.2;
   margin: 0;
@@ -128,6 +126,10 @@ header .content {
 
 
 /* main-top --------------------------------------------------------------------------- */
+.main-top {
+  background-color: #F037A5;
+}
+
 .mt-text {
   color: #121212;
 }
@@ -140,7 +142,7 @@ header .content {
 }
 
 .mb-text {
-  color: #121212;
+  color: #fff;
 }
 
 .btn {
