@@ -38,11 +38,6 @@ ul {
   padding-inline-start: 0;
 }
 
-.spacer {
-  padding: 100px 0;
-  background-color: slateblue;
-}
-
 /** FONTS ------------------------------------ */
 .nav-font {
   font: bold 16px/150% 'Circular', sans-serif;
