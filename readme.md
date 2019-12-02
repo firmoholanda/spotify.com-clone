@@ -27,7 +27,7 @@ basic HTML5, CSS3, bootstrap 4 and github was used on this solo project.
 
 this project can be found in https://github.com/firmoholanda/spotify.com-clone
 
-### ✨ [live version](https://github.com/firmoholanda/spotify.com-clone/development/index.html)
+### ✨ [live version](https://raw.githack.com/firmoholanda/spotify.com-clone/development/index.html)
 
 <a href="https://raw.githack.com/firmoholanda/spotify.com-clone/development/index.html" target="_blank">
     <img alt="page animation" src="https://github.com/firmoholanda/spotify.com-clone/blob/development/img/animation.gif"/>
