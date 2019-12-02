@@ -19,7 +19,10 @@
   font-style: normal;
 }
 
-html {
+html,
+body {
+  width: 100%;
+  height: auto;
   font-family: "Circular", Arial, Helvetica, sans-serif;
   font-weight: bolder;
   color: #fff;
@@ -32,70 +35,6 @@ a {
 ul {
   list-style-type:none;
   padding-inline-start: 0;
-}
-
-/* footer ----------------------------------------------------------------------------- */
-footer {
-  padding-top: 80px;
-  padding-bottom: 50px;
-  background: #000;
-  font-weight: normal;
-  min-height: 537px;
-}
-
-footer a {
-  color: #fff;
-}
-
-footer a:hover {
-  color: #1DB954;
-}
-
-footer nav {
-  padding: 0 82.5px;
-}
-
-.fl-title {
-  color: #919496;
-  font-size: 12px;
-  font-weight: 900;
-  line-height: 1.4;
-  letter-spacing: .08em;
-  text-transform: uppercase;
-}
-
-.footer-logo {
-  width: 132px;
-}
-
-.fc-img {
-  height: 18px;
-  margin-left: auto;
-}
-
-.f-bottom-links {
-  align-items: center;
-  font-weight: normal;
-  color: #919496;
-}
-
-.fc-text {
-  font-size: 12px;
-  color: #919496;
-}
-
-.fbl-text {
-  font-size: 12px;
-  color: #919496;
-}
-
-.fb-date {
-  font-size: 12px;
-
-html,
-body {
-  width: 100%;
-  height: auto;
 }
 
 /** FONTS ------------------------------------ */
@@ -158,4 +97,65 @@ header .content {
     width: 89px;
     height: 27px;
   }
+}
+
+/* footer ----------------------------------------------------------------------------- */
+footer {
+  padding-top: 80px;
+  padding-bottom: 50px;
+  background: #000;
+  font-weight: normal;
+  min-height: 537px;
+  background: #999;
+  padding-top: 300px;
+}
+
+footer a {
+  color: #fff;
+}
+
+footer a:hover {
+  color: #1DB954;
+}
+
+footer nav {
+  padding: 0 82.5px;
+}
+
+.fl-title {
+  color: #919496;
+  font-size: 12px;
+  font-weight: 900;
+  line-height: 1.4;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.footer-logo {
+  width: 132px;
+}
+
+.fc-img {
+  height: 18px;
+  margin-left: auto;
+}
+
+.f-bottom-links {
+  align-items: center;
+  font-weight: normal;
+  color: #919496;
+}
+
+.fc-text {
+  font-size: 12px;
+  color: #919496;
+}
+
+.fbl-text {
+  font-size: 12px;
+  color: #919496;
+}
+
+.fb-date {
+  font-size: 12px;
 }
