@@ -130,7 +130,7 @@ header .content {
 
 /* main-top --------------------------------------------------------------------------- */
 .main-top {
-  background-color: #F037A5;
+  background-color: #f037a5;
 }
 
 .mt-text {
@@ -140,8 +140,8 @@ header .content {
 /* main-bottom ------------------------------------------------------------------------ */
 .main-bottom {
   height: 446px;
-  background: url("../img/hero-burst-cropped.svg") no-repeat center/1610px 1523px,linear-gradient(#F037A5 -60%,#FAE62D 140%);
-  background-color: #F037A5;
+  background: url("../img/hero-burst-cropped.svg") no-repeat center/1610px 1523px,linear-gradient(#f037a5 -60%,#fae62d 140%);
+  background-color: #f037a5;
 }
 
 .mb-text {
