@@ -30,9 +30,14 @@ This project can be found in https://github.com/firmoholanda/spotify.com-clone
 
 ### ✨ [live version](https://raw.githack.com/firmoholanda/spotify.com-clone/development/index.html)
 
+<p>Mobile Version</p>
 <a href="https://raw.githack.com/firmoholanda/spotify.com-clone/development/index.html" target="_blank">
+    <img alt="page animation" src="https://github.com/firmoholanda/spotify.com-clone/blob/development/img/animation-mobile.gif"/>
+</a>
 
-    <img alt="page animation" src="https://github.com/firmoholanda/spotify.com-clone/blob/development/img/animation.gif"/>
+<p>Desktop Version</p>
+<a href="https://raw.githack.com/firmoholanda/spotify.com-clone/development/index.html" target="_blank">
+    <img alt="page animation" src="https://github.com/firmoholanda/spotify.com-clone/blob/development/img/animation-desktop.gif"/>
 </a>
 
 
