@@ -3066,13 +3066,12 @@ dl {
   background-color: #222326;
   width: 54px;
   height: 54px;
-  justify-content: center;
-  text-align: center;
-  display: inline-flex;
   align-items: center;
-  vertical-align: middle;
   cursor: pointer;
   font-size: 30px;
+  text-align: center;
+  display: block;
+  padding-top: 13px;
 }
 
 .btn-black {
