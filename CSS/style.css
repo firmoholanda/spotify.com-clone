@@ -47,6 +47,11 @@ ul {
   font: bold 16px/150% 'Circular', sans-serif;
 }
 
+.mob-nav-font {
+  font: bold 36px/100% 'Circular', sans-serif;
+  cursor: pointer;
+}
+
 /** Navbar ---------------------------------- */
 header {
   height: 54px;
@@ -85,21 +90,17 @@ header .content {
   text-decoration: none;
 }
 
-.top-nav li a:hover {
-  color: #1ed760;
+.top-nav li a:hover,
+.mob-top-nav li:hover a {
+  color: #1ed760 !important;
 }
 
-.separator {
-  display: inline-block;
-  background: currentColor;
-  height: 16px;
-  width: 1px;
-  color: #fff;
-  margin: auto 17px;
+.mob-top-nav .separator {
+  transform: rotate(90deg);
 }
 
 .signin {
-  color: #d9dadc !important;
+  color: #d9dadc;
 }
 
 @media (min-width: 480px) {
