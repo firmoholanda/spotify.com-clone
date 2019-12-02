@@ -1,17 +1,17 @@
-# 📃 Designing Your Own Grid-Based CSS Framework - Spotify.com Clone
+# 📃 Designing Our Own Grid-Based CSS Framework - Spotify.com Clone
 
 This project is part of a series of projects to be completed by students of [Microverse](https://www.microverse.org/ 'The Global School for Remote Software Developers!').
 
 In this project, our brief was to create our own CSS Framework, following the project to recreate a webpage using Bootstrap.
 
 
-## 🔗 link to assignment
+## 🔗 Link to assignment
 
 The assignment can be found in the Odin Project's HTML and CSS course that can be found [here]https://www.theodinproject.com/courses/html5-and-css3/lessons/design-your-own-grid-based-framework).
 
 
 
-## 📡 technologies used
+## 📡 Technologies used
 
 - HTML
 - CSS
@@ -49,7 +49,7 @@ Contributions, issues and feature requests are welcome!<br/>Feel free to check [
 
 
 
-## 🤖 Contributor
+## 🤖 Contributors
 
 firmo holanda - [GitHub](https://github.com/firmoholanda)
 
