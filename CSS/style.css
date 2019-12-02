@@ -170,6 +170,14 @@ footer nav {
   padding: 0 82.5px;
 }
 
+.f-links {
+  flex-wrap: wrap;
+}
+
+.f-social ul {
+  flex-wrap: wrap;
+}
+
 .fl-title {
   color: #919496;
   font-size: 12px;
@@ -206,3 +214,13 @@ footer nav {
 .fb-date {
   font-size: 12px;
 }
+
+.f-bottom-links ul {
+  flex-wrap: wrap;
+}
+
+/*@media (min-width: 480px) {
+  .f-bottom-links ul {
+    flex-direction: column;
+  }
+}*/
