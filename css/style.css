@@ -139,7 +139,10 @@ header .content {
 /* main-bottom ------------------------------------------------------------------------ */
 .main-bottom {
   height: 446px;
-  background: url("../img/hero-burst-cropped.svg") no-repeat center/1610px 1523px,linear-gradient(#f037a5 -60%,#fae62d 140%);
+  background: 
+    url("../img/hero-burst-cropped.svg") no-repeat center/1610px 1523px,
+    linear-gradient(#f037a5 -60%,
+    #fae62d 140%);
   background-color: #f037a5;
 }
 
