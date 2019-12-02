@@ -38,6 +38,10 @@ dl {
   color: #fff !important;
 }
 
+.signin-font {
+  color: #d9dadc !important;
+}
+
 .mob-signin-font {
   font: normal 28px/100% 'Circular', sans-serif;
   padding: 0 0 25px;
@@ -642,6 +646,10 @@ dl {
   display: -webkit-inline-box !important;
   display: -ms-inline-flexbox !important;
   display: inline-flex !important;
+}
+
+.d-none {
+  display: none;
 }
 
 .jc-start {
@@ -3234,19 +3242,6 @@ dl {
 }
 
 /* nav ------------------------------------------------------------------- */
-@media (min-width: 992px) {
-  header {
-    height: 80px !important;
-    background-color: rgba(0, 0, 0, 0.6) !important;
-  }
-
-  .nav-logo {
-    width: 132px !important;
-    height: auto !important;
-  }
-
-}
-
 .nav {
   display: flex;
   flex-wrap: wrap;
@@ -3255,8 +3250,12 @@ dl {
   list-style: none;
 }
 
+.nav-logo {
+  width: 89px !important;
+  height: auto !important;
+}
+
 .separator {
-  display: inline-block;
   background: currentColor;
   height: 16px;
   width: 1px;
@@ -3264,18 +3263,29 @@ dl {
   margin: auto 17px;
 }
 
+.top-nav .fa-bars {
+  color: #fff;
+  font-size: 25px;
+  cursor: pointer;
+}
+
 .mob-nav {
   width: 407px;
   height: 100vh;
-  z-index: 10;
+  position: absolute;
   background-color: #000;
+  z-index: 1;
   top: 0;
-  right: 0;
+  right: -407px;
+  z-index: 10;
 }
 
 .mob-top-nav {
   width: 100%;
+  background-color: #000;
+  position: relative;
   height: auto;
+  z-index: 20
 }
 
 .mob-top-nav:hover {
@@ -3306,6 +3316,18 @@ dl {
   height: 31px;
 }
 
+@media (min-width: 992px) {
+  header {
+    height: 80px !important;
+    background-color: rgba(0, 0, 0, 0.6) !important;
+  }
+
+  .nav-logo {
+    width: 132px !important;
+    height: auto !important;
+  }
+
+}
 
 
 /* components ------------------------------------------------------------------- */

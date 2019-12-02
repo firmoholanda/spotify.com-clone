@@ -80,10 +80,6 @@ header .content {
   overflow: hidden;
 }
 
-.top-nav li {
-  display: inline-block;
-}
-
 .top-nav li a {
   padding: 28px 17px;
   color: #fff;
