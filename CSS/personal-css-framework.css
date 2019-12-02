@@ -751,6 +751,7 @@ dl {
   .flex-row {
     flex-direction: row;
   }
+  
 }
 
 @media (min-width: 768px) {
