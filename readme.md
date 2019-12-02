@@ -37,7 +37,7 @@ This project can be found in https://github.com/firmoholanda/spotify.com-clone
 
 
 
-## 🤝 contributing
+## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br/>Feel free to check [issues page](https://github.com/firmoholanda/spotify.com-clone/development/issues).
 
