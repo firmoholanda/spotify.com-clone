@@ -99,6 +99,41 @@ header .content {
   }
 }
 
+/* main-bottom ------------------------------------------------------------------------ */
+.main-bottom {
+  height: 446px;
+  background: url("../img/hero-burst-cropped.svg") no-repeat center/1610px 1523px,linear-gradient(#F037A5 -60%,#FAE62D 140%);
+  background-color: #F037A5;
+}
+
+.mb-text h1 {
+  line-height: 1.2;
+  margin: 0;
+  padding-top: 80px;
+  font-weight: 900;
+  max-width: 100%;
+  font-size: 56px;
+  width: auto;
+  display: inline-block;
+  text-align: left;
+  direction: ltr;
+}
+
+.mb-text h2 {
+  font-size: 24px;
+  margin-bottom: 0;
+  width: 100%;
+  max-width: 100%;
+  display: inline-block;
+  font-weight: 400;
+  text-align: left;
+  direction: ltr;
+}
+
+.btn {
+  width: auto;
+}
+
 /* footer ----------------------------------------------------------------------------- */
 footer {
   padding-top: 80px;
