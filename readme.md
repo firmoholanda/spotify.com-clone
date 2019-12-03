@@ -15,12 +15,12 @@ The assignment can be found in the Odin Project's HTML and CSS course that can b
 
 - HTML
 - CSS
-- Bootstrap
+- Personal Framework
 - Github
 - Stickler CI
 - Javascript
 
-Basic HTML5, CSS3, bootstrap 4 and github was used on this solo project.
+Basic HTML5, CSS3, our personal framework and github was used on this project.
 
 
 
