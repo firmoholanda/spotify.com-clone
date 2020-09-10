@@ -1,8 +1,6 @@
 # 📃 Designing Our Own Grid-Based CSS Framework - Spotify.com Clone
 
-This project is part of a series of projects to be completed by students of [Microverse](https://www.microverse.org/ 'The Global School for Remote Software Developers!').
-
-In this project, our brief was to create our own CSS Framework, following the project to recreate a webpage using Bootstrap.
+Clone of Spotify login page using our personal CSS framework.
 
 
 ## 🔗 Link to assignment
